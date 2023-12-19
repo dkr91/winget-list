@@ -1,0 +1,173 @@
+{
+    "winget": {
+        "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+        "CreationDate": "2023-12-19 21:16:46.631837",
+        "Sources": [
+            {
+                "Packages": [
+                    {
+                        "PackageIdentifier": "ajeetdsouza.zoxide"
+                    },
+                    {
+                        "PackageIdentifier": "SomePythonThings.WingetUIStore"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.WindowsTerminal"
+                    },
+                    {
+                        "PackageIdentifier": "CodeSector.TeraCopy"
+                    },
+                    {
+                        "PackageIdentifier": "TechPowerUp.GPU-Z"
+                    },
+                    {
+                        "PackageIdentifier": "Valve.Steam"
+                    },
+                    {
+                        "PackageIdentifier": "Spotify.Spotify"
+                    },
+                    {
+                        "PackageIdentifier": "QL-Win.QuickLook"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.PowerToys.PowerRenameContextMenu\u2026"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.PowerToys.ImageResizerContextMen\u2026"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.PowerToys"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.PowerShell"
+                    },
+                    {
+                        "PackageIdentifier": "MilosParipovic.OneCommander"
+                    },
+                    {
+                        "PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
+                    },
+                    {
+                        "PackageIdentifier": "Nvidia.PhysX"
+                    },
+                    {
+                        "PackageIdentifier": "Nvidia.GeForceExperience"
+                    },
+                    {
+                        "PackageIdentifier": "M2Team.NanaZip"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VisualStudioCode"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2015+.x64"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2015+.x86"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2013.x86"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2013.x86"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2013.x86"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2012.x86"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2012.x64"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2010.x86"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2010.x64"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2008.x64"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2008.x86"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.OneDrive"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.DotNet.Runtime.6"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.DotNet.Runtime.3_1"
+                    },
+                    {
+                        "PackageIdentifier": "zyedidia.micro"
+                    },
+                    {
+                        "PackageIdentifier": "Logitech.OptionsPlus"
+                    },
+                    {
+                        "PackageIdentifier": "gerardog.gsudo"
+                    },
+                    {
+                        "PackageIdentifier": "Git.Git"
+                    },
+                    {
+                        "PackageIdentifier": "Gyan.FFmpeg"
+                    },
+                    {
+                        "PackageIdentifier": "stnkl.EverythingToolbar"
+                    },
+                    {
+                        "PackageIdentifier": "EpicGames.EpicGamesLauncher"
+                    },
+                    {
+                        "PackageIdentifier": "ElectronicArts.EADesktop"
+                    },
+                    {
+                        "PackageIdentifier": "Discord.Discord"
+                    },
+                    {
+                        "PackageIdentifier": "CrystalDewWorld.CrystalDiskMark"
+                    },
+                    {
+                        "PackageIdentifier": "CPUID.CPU-Z"
+                    },
+                    {
+                        "PackageIdentifier": "ScooterSoftware.BeyondCompare4"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.AppInstaller"
+                    }
+                ],
+                "SourceDetails": {
+                    "Argument": "https://cdn.winget.microsoft.com/cache",
+                    "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                    "Name": "winget",
+                    "Type": "Microsoft.PreIndexed.Package"
+                }
+            }
+        ],
+        "WinGetVersion": "1.4"
+    },
+    "scoop": {
+        "apps": []
+    },
+    "chocolatey": {
+        "apps": []
+    },
+    "pip": {
+        "apps": [
+            {
+                "Name": "psutil"
+            }
+        ]
+    },
+    "npm": {
+        "apps": []
+    },
+    ".net tool": {
+        "apps": []
+    }
+}
